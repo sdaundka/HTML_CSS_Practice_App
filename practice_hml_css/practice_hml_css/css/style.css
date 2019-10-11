@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(161, 215, 219);
+    color: #f4f4f4;
+    border: rgb(146, 15, 15);
+    border-style: dotted;
+    border-width: 5px;
+    margin: 20px;
+    padding: 30px;
+
+}
+
+a {
+    color:#920f0f;
+}

@@ -1,0 +1,28 @@
+header {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+
+main {
+    background-color: bisque;
+    width: 900px;
+    padding: 30px;
+    border-width: 5px;
+    border-color: red;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    background-color: deeppink;
+    color: wheat;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 25px;
+}
